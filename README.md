@@ -72,7 +72,6 @@
     <tr>
       <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>Git</td>
       <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/>GitHub</td>
-      <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br/>Linux</td>
     </tr>
   </table>
 </p>
